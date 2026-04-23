@@ -4,9 +4,14 @@
 </div>
 
 <!-- PROFILE PICTURE -->
-<div align="center" style="margin-top: 20px; margin-bottom: 10px;">
-  <img src="./profile.png" alt="Venz Aba" width="150" height="150" 
-       style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
+  <img
+    src="./profile.png"
+    alt="Venz Aba"
+    width="160"
+    height="160"
+    style="display:block; margin:0 auto; border-radius:50%; object-fit:cover; box-shadow:0 6px 18px rgba(0,0,0,0.18);"
+  />
 </div>
 
 <!-- NAME & TITLE -->
