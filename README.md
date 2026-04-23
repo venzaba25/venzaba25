@@ -5,7 +5,7 @@
 
 <!-- PROFILE PICTURE -->
 <div align="center" style="margin-top: 20px; margin-bottom: 10px;">
-  <img src="./profile.png" alt="Romel Brosas" width="150" height="150" 
+  <img src="./profile.png" alt="Venz Aba" width="150" height="150" 
        style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Romel+P.+Brosas.;A+self+taught+programmer.;A+freelance+software+developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Venz+A.+Aba.;A+self+taught+programmer.;A+freelance+software+developer." alt="Typing SVG" />
   </a>
 </p>
 
