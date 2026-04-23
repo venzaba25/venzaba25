@@ -106,7 +106,7 @@
   
   <!-- Activity Graph -->
   <a href="https://github.com/venzaba25/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzaba25-ph&theme=github-compact" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzaba25&theme=github-compact" alt="Activity Graph" />
   </a>
   <p>🔒 <i>Many contributions in private repositories (client projects/internal code)</i></p>
 
