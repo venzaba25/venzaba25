@@ -150,7 +150,10 @@
 
 <div align="center">
   <br>
-  <p><b> Design Credit to: rdevz-ph </b></p>
+    <p><b>
+      🫡 Design Credit to: rdevz-ph
+      <img src="./salute.gif" width="24" alt="salute">
+    </b></p>
   <br>
 </div>
 
