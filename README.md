@@ -12,7 +12,7 @@
 
 <!-- NAME & TITLE -->
 <h1 align="center">
-  <b>Venz Aba</b>
+  <b>Venz A. Aba</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
