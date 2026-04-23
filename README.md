@@ -102,10 +102,10 @@
 
 <div align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=venzaba25-ph&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=venzaba25&theme=github-dark-blue" alt="GitHub Streak" />
   
   <!-- Activity Graph -->
-  <a href="https://github.com/venzaba25-ph/github-readme-activity-graph">
+  <a href="https://github.com/venzaba25/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzaba25-ph&theme=github-compact" alt="Activity Graph" />
   </a>
   <p>🔒 <i>Many contributions in private repositories (client projects/internal code)</i></p>
