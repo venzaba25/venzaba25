@@ -36,10 +36,10 @@
   </h2>
   
   <p>
-    <a href="https://github.com/venzaba25/venzaba25/blob/main/files/Venerando%20aba.pdf" target="_blank">
+    <a href="https://github.com/venzaba25/venzaba25/blob/main/files/myvc.pdf" target="_blank">
       <img src="https://img.shields.io/badge/View_CV-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="View CV" />
     </a>
-    <a href="https://raw.githubusercontent.com/venzaba25/venzaba25/main/files/Venerando%20aba.pdf" download="Venerando_Aba_CV.pdf">
+    <a href="https://raw.githubusercontent.com/venzaba25/venzaba25/main/files/myvc.pdf" download="Venerando_Aba_CV.pdf">
       <img src="https://img.shields.io/badge/Download_CV-4ECDC4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV" />
     </a>
   </p>
