@@ -35,23 +35,31 @@
     <b> Curriculum Vitae </b>
   </h2>
   
-  <!-- Expandable CV Viewer -->
+  <p>
+    <a href="https://github.com/venzaba25/venzaba25/blob/main/files/Venerando%20aba.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View_CV-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="View CV" />
+    </a>
+    <a href="https://raw.githubusercontent.com/venzaba25/venzaba25/main/files/Venerando%20aba.pdf" download="Venerando_Aba_CV.pdf">
+      <img src="https://img.shields.io/badge/Download_CV-4ECDC4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV" />
+    </a>
+  </p>
+  
+  <!-- CV Preview Section -->
   <details>
-    <summary style="cursor: pointer; padding: 10px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px; font-weight: bold; display: inline-block; margin: 10px;">
-      <img src="https://img.shields.io/badge/View_CV-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="View CV" style="vertical-align: middle;" />
+    <summary style="cursor: pointer; padding: 8px 16px; background: #161b22; color: #58a6ff; border: 1px solid #30363d; border-radius: 6px; font-weight: bold; display: inline-block; margin: 10px;">
+      <b>Quick Preview</b>
     </summary>
-    <div style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; margin: 20px 0; background: #0d1117;">
-      <div style="text-align: center; margin-bottom: 15px;">
-        <h3 style="color: #58a6ff;">Venz A. Aba - Curriculum Vitae</h3>
+    <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; margin: 10px 0; background: #0d1117;">
+      <div style="text-align: center; margin-bottom: 10px;">
+        <h4 style="color: #58a6ff;">Venz A. Aba - Professional CV</h4>
+        <p style="color: #8b949e; font-size: 14px;">Self-taught programmer & freelance developer</p>
       </div>
-      <iframe src="./files/Venerando aba.pdf" width="100%" height="600px" style="border: none; border-radius: 8px; background: white;">
-        <p>Your browser does not support PDFs. 
-          <a href="./files/Venerando aba.pdf">Download the PDF</a>.
-        </p>
-      </iframe>
       <div style="text-align: center; margin-top: 15px;">
-        <a href="./files/Venerando aba.pdf" download="Venerando_Aba_CV.pdf">
-          <img src="https://img.shields.io/badge/Download_CV-4ECDC4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV" />
+        <a href="https://github.com/venzaba25/venzaba25/blob/main/files/Venerando%20aba.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Open_in_GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Open in GitHub" />
+        </a>
+        <a href="https://raw.githubusercontent.com/venzaba25/venzaba25/main/files/Venerando%20aba.pdf" download="Venerando_Aba_CV.pdf">
+          <img src="https://img.shields.io/badge/Direct_Download-45B7D1?style=for-the-badge&logo=download&logoColor=white" alt="Direct Download" />
         </a>
       </div>
     </div>
