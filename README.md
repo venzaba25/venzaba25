@@ -27,6 +27,39 @@
   <img src="https://komarev.com/ghpvc/?username=venzaba25&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </div>
 
+<!-- CV SECTION -->
+<div align="center">
+  <br>
+  <h2> 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+    <b> Curriculum Vitae </b>
+  </h2>
+  <p>
+    <a href="./Venerando ab.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View_CV-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="View CV" />
+    </a>
+    <a href="./Venerando ab.pdf" download="Venerando_Aba_CV.pdf">
+      <img src="https://img.shields.io/badge/Download_CV-4ECDC4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV" />
+    </a>
+  </p>
+  <br>
+</div>
+
+<br/>
+
+<!-- ABOUT SECTION -->
+<div align="center">
+  <h2> 
+    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="25">
+    <b> About Me </b>
+  </h2>
+  <p>
+    <img src="https://img.shields.io/badge/Self_Taught-FF6B6B?style=for-the-badge&logo=education&logoColor=white" />
+    <img src="https://img.shields.io/badge/Freelance_Developer-4ECDC4?style=for-the-badge&logo=work&logoColor=white" />
+    <img src="https://img.shields.io/badge/Problem_Solver-45B7D1?style=for-the-badge&logo=lightbulb&logoColor=white" />
+  </p>
+</div>
+
 <br/>
 
 <!-- TECH STACKS (grouped with labels) -->
@@ -99,7 +132,7 @@
 <!-- GITHUB STATS -->
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <b> GitHub Stats</b>
+  <b> GitHub Analytics</b>
 </h2>
 
 <div align="center">
@@ -125,9 +158,12 @@
 <br/>
 
 <!-- CONNECT -->
-<h2><b>🌐 Let's Connect</b></h2>
+<h2>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="25">
+  <b> Let's Connect </b>
+</h2>
 
-<div align="left">
+<div align="center">
  <a href="https://facebook.com/venzaba2025">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
@@ -136,6 +172,9 @@
   </a>
   <a href="https://venzaba.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-32CD32?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/venzaba25">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
