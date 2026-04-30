@@ -152,7 +152,6 @@
 </h2>
 
 <div align="center">
-
   <table>
     <tr>
       <th>Project</th>
@@ -162,30 +161,29 @@
     <tr>
       <td>Chatbot AI Automation</td>
       <td>Manychat-like automation chatbot system.</td>
-      <td><a href="https://mcp-v16.vercel.app/" target="_blank">View Project</a></td>
+      <td><a href="https://mcp-v16.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></td>
     </tr>
     <tr>
       <td>Home Booking Services</td>
       <td>Mobile-view optimized booking service website.</td>
-      <td><a href="https://home-servcies-mobile-optimized-view.vercel.app/" target="_blank">View Project</a></td>
+      <td><a href="https://home-servcies-mobile-optimized-view.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></td>
     </tr>
     <tr>
       <td>Travel & Tours Booking</td>
       <td>Online travel and tours booking platform.</td>
-      <td><a href="https://mybusinesslink.vercel.app/venztravel/" target="_blank">View Project</a></td>
+      <td><a href="https://mybusinesslink.vercel.app/venztravel/" target="_blank" rel="noopener noreferrer">View Project</a></td>
     </tr>
     <tr>
       <td>Air-condition & Refrigeration Services</td>
       <td>Service website for AC and refrigeration business.</td>
-      <td><a href="https://percirefrigeration-six.vercel.app/" target="_blank">View Project</a></td>
+      <td><a href="https://percirefrigeration-six.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></td>
     </tr>
     <tr>
       <td>Online Betting Game</td>
       <td>Web-based game project.</td>
-      <td><a href="https://game-kana-ba.vercel.app/" target="_blank">View Project</a></td>
+      <td><a href="https://game-kana-ba.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></td>
     </tr>
   </table>
-
 </div>
 
 <br/>
