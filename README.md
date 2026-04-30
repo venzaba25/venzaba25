@@ -44,7 +44,6 @@
     </a>
   </p>
   
-  
   <br>
 </div>
 
@@ -99,9 +98,9 @@
 <!-- Backend -->
 <h3>Backend & Frameworks</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
 </p>
 
@@ -119,6 +118,12 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-1F2937?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt.new-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF5C8A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -139,22 +144,18 @@
 </h2>
 
 <div align="center">
-  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=venzaba25&theme=github-dark-blue" alt="GitHub Streak" />
   
-  <!-- Activity Graph -->
   <a href="https://github.com/venzaba25/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzaba25&theme=github-compact" alt="Activity Graph" />
   </a>
   <p>🔒 <i>Many contributions in private repositories (client projects/internal code)</i></p>
 
-  <!-- Top Languages Header -->
   <h3>
     <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="25">
     <b> Top Languages</b>
   </h3>
 
- <!-- Top Langs Card -->  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venzaba25&layout=pie&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=30363d&v=1)](https://github.com/venzaba25)
 </div>
 
@@ -167,9 +168,9 @@
 </h2>
 
 <div align="center">
- <a href="https://facebook.com/venzaba2025">
+  <a href="https://facebook.com/venzaba2025">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
+  </a>
   <a href="mailto:venzaba25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -198,4 +199,3 @@
     </b></p>
   <br>
 </div>
-
