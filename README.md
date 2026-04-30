@@ -1,6 +1,6 @@
 <!-- COVER PHOTO -->
 <div align="center">
-  <img src="./files/mycover.png?v=2" alt="cover" width="100%" style="max-width: 100%; border-radius: 12px;" />
+  <img src="./files/mycover1.png?v=2" alt="cover" width="100%" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
 <!-- PROFILE PICTURE -->
