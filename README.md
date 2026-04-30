@@ -64,7 +64,7 @@
 
 <br/>
 
-<!-- TECH STACKS (grouped with labels) -->
+<!-- TECH STACKS -->
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   <b>Tech Stack & Expertise</b>
@@ -112,19 +112,27 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-<!-- Tools & DevOps -->
-<h3>Tools & DevOps</h3>
+<!-- Tools -->
+<h3>Local IDEs</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-1F2937?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
+<h3>Online IDEs</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Bolt.new-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable-FF5C8A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
+<h3>Tools & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
@@ -134,6 +142,51 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF9800?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
+
+<br/>
+
+<!-- LIVE WORKS -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <b> Live Works & Projects</b>
+</h2>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Live Link</th>
+    </tr>
+    <tr>
+      <td>Chatbot AI Automation</td>
+      <td>Manychat-like automation chatbot system.</td>
+      <td><a href="https://mcp-v16.vercel.app/" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td>Home Booking Services</td>
+      <td>Mobile-view optimized booking service website.</td>
+      <td><a href="https://home-servcies-mobile-optimized-view.vercel.app/" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td>Travel & Tours Booking</td>
+      <td>Online travel and tours booking platform.</td>
+      <td><a href="https://mybusinesslink.vercel.app/venztravel/" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td>Air-condition & Refrigeration Services</td>
+      <td>Service website for AC and refrigeration business.</td>
+      <td><a href="https://percirefrigeration-six.vercel.app/" target="_blank">View Project</a></td>
+    </tr>
+    <tr>
+      <td>Online Betting Game</td>
+      <td>Web-based game project.</td>
+      <td><a href="https://game-kana-ba.vercel.app/" target="_blank">View Project</a></td>
+    </tr>
+  </table>
+
+</div>
 
 <br/>
 
