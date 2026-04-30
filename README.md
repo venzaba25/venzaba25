@@ -1,12 +1,12 @@
 <!-- COVER PHOTO -->
 <div align="center">
-  <img src="./mycover.png?v=2" alt="cover" width="100%" style="max-width: 100%; border-radius: 12px;" />
+  <img src="./files/mycover.png?v=2" alt="cover" width="100%" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
 <!-- PROFILE PICTURE -->
 <div align="center">
   <br><br>
-  <img src="./profile.png" alt="Venz Aba" width="160" height="160">
+  <img src="./files/profile.png" alt="Venz Aba" width="160" height="160">
   <br><br>
 </div>
 
@@ -34,14 +34,29 @@
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
     <b> Curriculum Vitae </b>
   </h2>
-  <p>
-    <a href="./Venerando ab.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View_CV-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="View CV" />
-    </a>
-    <a href="./Venerando ab.pdf" download="Venerando_Aba_CV.pdf">
-      <img src="https://img.shields.io/badge/Download_CV-4ECDC4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV" />
-    </a>
-  </p>
+  
+  <!-- Expandable CV Viewer -->
+  <details>
+    <summary style="cursor: pointer; padding: 10px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px; font-weight: bold; display: inline-block; margin: 10px;">
+      <img src="https://img.shields.io/badge/View_CV-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="View CV" style="vertical-align: middle;" />
+    </summary>
+    <div style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; margin: 20px 0; background: #0d1117;">
+      <div style="text-align: center; margin-bottom: 15px;">
+        <h3 style="color: #58a6ff;">Venz A. Aba - Curriculum Vitae</h3>
+      </div>
+      <iframe src="./files/Venerando aba.pdf" width="100%" height="600px" style="border: none; border-radius: 8px; background: white;">
+        <p>Your browser does not support PDFs. 
+          <a href="./files/Venerando aba.pdf">Download the PDF</a>.
+        </p>
+      </iframe>
+      <div style="text-align: center; margin-top: 15px;">
+        <a href="./files/Venerando aba.pdf" download="Venerando_Aba_CV.pdf">
+          <img src="https://img.shields.io/badge/Download_CV-4ECDC4?style=for-the-badge&logo=download&logoColor=white" alt="Download CV" />
+        </a>
+      </div>
+    </div>
+  </details>
+  
   <br>
 </div>
 
