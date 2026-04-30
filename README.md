@@ -119,7 +119,7 @@
   </h3>
 
  <!-- Top Langs Card -->  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venzaba25&layout=pie&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=30363d)](https://github.com/venzaba25)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venzaba25&layout=pie&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=30363d&v=1)](https://github.com/venzaba25)
 </div>
 
 <br/>
