@@ -152,58 +152,31 @@
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Live Link</th>
-    </tr>
-    <tr>
-      <td>Chatbot AI Automation</td>
-      <td>Manychat-like automation chatbot system.</td>
-      <td>
-        <a href="https://mcp-v16.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Home Booking Services</td>
-      <td>Mobile-view optimized booking service website.</td>
-      <td>
-        <a href="https://home-servcies-mobile-optimized-view.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Travel & Tours Booking</td>
-      <td>Online travel and tours booking platform.</td>
-      <td>
-        <a href="https://mybusinesslink.vercel.app/venztravel/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Air-condition & Refrigeration Services</td>
-      <td>Service website for AC and refrigeration business.</td>
-      <td>
-        <a href="https://percirefrigeration-six.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Online Betting Game</td>
-      <td>Web-based game project.</td>
-      <td>
-        <a href="https://game-kana-ba.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://mcp-v16.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Chatbot_AI_Automation-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Chatbot AI Automation" />
+    </a>
+  </p>
+  <p>
+    <a href="https://home-servcies-mobile-optimized-view.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Home_Booking_Services-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Home Booking Services" />
+    </a>
+  </p>
+  <p>
+    <a href="https://mybusinesslink.vercel.app/venztravel/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Travel_%26_Tours_Booking-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Travel & Tours Booking" />
+    </a>
+  </p>
+  <p>
+    <a href="https://percirefrigeration-six.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/AC_%26_Refrigeration-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="AC & Refrigeration" />
+    </a>
+  </p>
+  <p>
+    <a href="https://game-kana-ba.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Online_Betting_Game-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Online Betting Game" />
+    </a>
+  </p>
 </div>
 
 <br/>
